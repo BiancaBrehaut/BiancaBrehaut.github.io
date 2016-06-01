@@ -1,0 +1,100 @@
+#left {
+	margin-right: 350px;
+	margin-left: 100px;
+	font-family: Futura;
+	color: grey;
+	text-align: left;
+	background-color: white;
+	opacity: .6;
+	width: 300px;
+	height: 330px;
+	padding: 40px;
+
+}
+
+#two-column {
+	background-image: url('../images/flowers.png');
+	margin-right: 200px;
+	margin-left: 200px;
+	display: block;
+	margin-top: 50px;
+	height: 400px;
+}
+#logo {
+
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+    
+nav {
+	font-family: Dolce Vita;
+	font-size: 14px;
+	text-align: center;
+	border-bottom: solid .5px #FD7475;
+	margin-left: 200px;
+	margin-right: 200px;
+	border-top: solid .5px #FD7475;
+	padding: 10px;
+
+}
+a {
+	padding: 20px;
+}
+
+nav {
+	font-family: Dolce Vita;
+	font-size: 14px;
+	text-align: center;
+}
+
+footer {
+	background-image: url('../images/footer.png');
+	padding: 2px;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 50px;
+	opacity: .6;
+}
+	
+img {
+	padding: 10px;
+	display: inline-block;
+	height: 300px;
+}
+
+#project {
+	margin-left: 180px;
+	margin-right: 180px;
+	color: grey;
+	display: inline-block;
+	width: 78%;
+	height: 20px;
+	margin-top: 30px;
+}
+
+#photo {
+	width: 20px;
+	height: 20px;
+	margin-left: auto;
+
+}
+
+p {font-family: Dolce Vita;
+	font-size: 25px;
+
+}
+
+section img:hover{
+	 -webkit-transform: scale(1.5);
+	 -moz-transform: scale(1.5);
+	 -o-transform: scale(1.5);
+	 -ms-transform: scale(1.5);
+	 transform: scale(1.5);
+	 cursor: pointer;
+ 
+	 -webkit-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+	 -moz-box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+	 box-shadow: 0px 3px 5px rgba(0,0,0,0.2);
+}
